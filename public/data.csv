@@ -1,0 +1,21 @@
+Subgroup,Team,Healthy Backlog Limit (HBL*),# of Unassigned Tickets
+Admin Support,Admin APJ,6,1
+Admin Support,Admin EMEA,10,2
+Admin Support,Admin NA,22,6
+Admin Support,Admin Direct,287,72
+Admin Support,Admin Omni,421,105
+Admin Support,ASSET,92,23
+Back of House Operations,BoHO Follow Ups,441,110
+Core Product Support,CPS Primary Support,3028,757
+Core Product Support,CPS ABS,665,166
+Core Product Support,CPS APS,379,95
+Core Product Support,CPSET,337,84
+High Sensitivity Support,HSS,305,76
+High Sensitivity Support,HSS SEE,72,18
+Print Support,Print Primary Support,807,202
+Print Support,Print CHT (Advanced),525,131
+Print Support,Print Design,388,97
+Print Support,Print SEE,194,49
+Segment-specific Support,SSS Creators,199,50
+Segment-specific Support,SSS Flourish,61,15
+Segment-specific Support,SSS Affinity,572,143
